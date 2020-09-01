@@ -6,3 +6,5 @@ ATTRS{idVendor}=="10c4", ATTRS{idProduct}=="ea60", GROUP="plugdev", MODE="0666",
 ATTRS{idVendor}=="0483", ATTRS{idProduct}=="3748", GROUP="plugdev", MODE="0666"
 # ID 0483:374b STMicroelectronics ST-LINK/V2.1
 ATTRS{idVendor}=="0483", ATTRS{idProduct}=="374b", GROUP="plugdev", MODE="0666"
+# ID 1366:0101 SEGGER J-Link PLUS
+ATTRS{idVendor}=="1336", ATTRS{idProduct}=="0101", GROUP="plugdev", MODE="0666"
